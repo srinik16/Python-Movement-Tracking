@@ -93,3 +93,4 @@ while True:
 video_capture.release()
 # Destroying output window
 cv2.destroyAllWindows()
+# Completed
